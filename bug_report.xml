@@ -1,1 +1,17 @@
-<bug>Bug_1</bug>
+    <bugs>
+         <bug_1> 
+            <title>mistake_in_the_title_on_the_main_page</title>
+            <staps>load_site</staps>
+            <ER>title_is_spelled_correctly</ER>
+            <AR>the_title_is_misspelled</AR>
+         </bug_1>
+         <bug_2>
+            <title>link_Books_is_broken</title>
+            <staps>
+                        <1>load_site</1>
+                        <2>click_on_the_link</2>
+             </staps>
+            <ER>link_works</ER>
+            <AR>the_link_does_not_work</AR>
+        </bug_2> 
+</bugs>
